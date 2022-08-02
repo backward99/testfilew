@@ -1,0 +1,15 @@
+{
+  "files": {
+    "main.css": "/testoo/static/css/main.f33ac930.css",
+    "main.js": "/testoo/static/js/main.6776442d.js",
+    "static/js/787.c4e7f8f9.chunk.js": "/testoo/static/js/787.c4e7f8f9.chunk.js",
+    "index.html": "/testoo/index.html",
+    "main.f33ac930.css.map": "/testoo/static/css/main.f33ac930.css.map",
+    "main.6776442d.js.map": "/testoo/static/js/main.6776442d.js.map",
+    "787.c4e7f8f9.chunk.js.map": "/testoo/static/js/787.c4e7f8f9.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.f33ac930.css",
+    "static/js/main.6776442d.js"
+  ]
+}
